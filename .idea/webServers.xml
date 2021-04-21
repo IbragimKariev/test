@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48b05ce6-ca65-4fc3-8336-3dfbe76bb91a" name="aliata" url="http://149.255.62.57">
+        <fileTransfer rootFolder="/test.aliata-store.com" accessType="FTPS" host="149.255.62.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
